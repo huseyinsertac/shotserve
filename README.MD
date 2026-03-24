@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A shitty webserver built with x64 assembly on top of gas <a href="https://en.wikipedia.org/wiki/GNU_Assembler" target="_blank">GNU Assembler</a>.</h4>
+<h4 align="center">A webserver built with x64 assembly on top of gas <a href="https://en.wikipedia.org/wiki/GNU_Assembler" target="_blank">GNU Assembler</a>.</h4>
 
  <a href="https://saythanks.io/to/vakvak@duck.com">
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
